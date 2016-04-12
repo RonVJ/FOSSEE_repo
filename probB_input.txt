@@ -1,0 +1,6 @@
+cs04 Amit 46 57 92 89 34
+cs10 Umesh 48 88 91 61 72
+cs40 Keshav 88 92 94 91 78
+cs16 Shankar 48 88 92 60 72
+cs20 Abhishek 52 82 84 81 92
+cs23 Aman 72 71 97 85 90 50
